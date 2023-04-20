@@ -8,3 +8,7 @@
 * Licenc: GNU GPL
 * Nem vállalunk felelősséget a rossz jegyekért
 */
+.input{
+    width: 75%;
+    float: left;
+}
